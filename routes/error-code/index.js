@@ -1,0 +1,1 @@
+module.exports.internalServerError = require('./500').internalServerError;
